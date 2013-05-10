@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acmp_0002_Sum", "acmp_0002_Sum\acmp_0002_Sum.csproj", "{C5777E55-D3EE-4A40-AF8A-9006663C4147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestOfSum", "UnitTestOfSum\UnitTestOfSum.csproj", "{20C840C2-1DFA-4182-9D22-9B3269151DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acmp_0002_App", "acmp_0002_App\acmp_0002_App.csproj", "{9A7C3D32-14C4-445B-A644-3109B49F5F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5777E55-D3EE-4A40-AF8A-9006663C4147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5777E55-D3EE-4A40-AF8A-9006663C4147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5777E55-D3EE-4A40-AF8A-9006663C4147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5777E55-D3EE-4A40-AF8A-9006663C4147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C840C2-1DFA-4182-9D22-9B3269151DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C840C2-1DFA-4182-9D22-9B3269151DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C840C2-1DFA-4182-9D22-9B3269151DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C840C2-1DFA-4182-9D22-9B3269151DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7C3D32-14C4-445B-A644-3109B49F5F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7C3D32-14C4-445B-A644-3109B49F5F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7C3D32-14C4-445B-A644-3109B49F5F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7C3D32-14C4-445B-A644-3109B49F5F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

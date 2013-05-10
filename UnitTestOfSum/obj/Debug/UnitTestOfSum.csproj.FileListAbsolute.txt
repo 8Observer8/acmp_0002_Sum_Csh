@@ -1,0 +1,7 @@
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\bin\Debug\UnitTestOfSum.dll
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\bin\Debug\UnitTestOfSum.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\bin\Debug\acmp_0002_Sum.dll
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\bin\Debug\acmp_0002_Sum.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\obj\Debug\UnitTestOfSum.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\obj\Debug\UnitTestOfSum.dll
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\UnitTestOfSum\obj\Debug\UnitTestOfSum.pdb

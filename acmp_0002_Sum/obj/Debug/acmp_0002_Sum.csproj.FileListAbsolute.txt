@@ -1,0 +1,5 @@
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\acmp_0002_Sum\bin\Debug\acmp_0002_Sum.dll
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\acmp_0002_Sum\bin\Debug\acmp_0002_Sum.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\acmp_0002_Sum\obj\Debug\acmp_0002_Sum.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\acmp_0002_Sum\obj\Debug\acmp_0002_Sum.dll
+D:\Documents\C#\Acmp\Problems\acmp_0002_Sum\acmp_0002_Sum\obj\Debug\acmp_0002_Sum.pdb
